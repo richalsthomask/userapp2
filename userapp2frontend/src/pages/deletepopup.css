@@ -1,0 +1,22 @@
+#cancelbutton{
+    height:18%;width:19%;background-color:blue;color:white;font-size:22px;border-radius:10px;border:2px solid black;
+    position:relative;
+    top:50px;
+    left:40px
+}
+
+#cancelbutton:hover{
+    background-color:rgb(33, 33, 189)
+}
+
+#okbutton{
+    height:18%;width:19%;background-color:red;color:white;font-size:22px;border-radius:10px;border:2px solid black;
+    position:relative;
+    float:right;
+    top:6px;
+    right:80px;
+}
+
+#okbutton:hover{
+    background-color:brown
+}
